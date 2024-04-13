@@ -1,0 +1,9 @@
+.dialog-title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dialog-container {
+  min-width: 480px;
+}
